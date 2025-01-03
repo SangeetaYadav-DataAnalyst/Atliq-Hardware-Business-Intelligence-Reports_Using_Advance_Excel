@@ -22,7 +22,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 1. **Top 10 Products with Sales Increase**
    - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 https://github.com/user-attachments/files/18296717/Top.10.Products.pdf
-![image](https://github.com/user-attachments/assets/6f994ed0-d1a5-42d6-b0ed-569967bcccb5)
+
 
 
      
@@ -33,7 +33,7 @@ https://github.com/user-attachments/files/18296717/Top.10.Products.pdf
      - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
      - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
       [Division level reoprt.pdf](https://github.com/user-attachments/files/18296720/Division.level.reoprt.pdf)
-
+      ![image](https://github.com/user-attachments/assets/6f994ed0-d1a5-42d6-b0ed-569967bcccb5)
 
 3. **Top and Bottom 5 Sold Products**
    - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
