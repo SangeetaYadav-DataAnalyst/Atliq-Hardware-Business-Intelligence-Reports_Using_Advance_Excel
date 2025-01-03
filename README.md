@@ -21,7 +21,8 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 1. **Top 10 Products with Sales Increase**
    - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
-https://github.com/SangeetaYadav-DataAnalyst/Atliq-Hardware-Business-Intelligence-Reports_Using_Advance_Excel/blob/main/Top%2010%20Products.pdf
+[Top 10 Products.pdf](https://github.com/user-attachments/files/18296717/Top.10.Products.pdf)
+
      
 
 2. **Division Sales Report**
@@ -29,18 +30,27 @@ https://github.com/SangeetaYadav-DataAnalyst/Atliq-Hardware-Business-Intelligenc
      - PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
      - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
      - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
+      [Division level reoprt.pdf](https://github.com/user-attachments/files/18296720/Division.level.reoprt.pdf)
+
 
 3. **Top and Bottom 5 Sold Products**
    - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
    - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
 
+   [Top 5 and Bottom products.pdf](https://github.com/user-attachments/files/18296721/Top.5.and.Bottom.products.pdf)
+
+
 4. **New Products in 2021**
    - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+   
+[New products 2021.pdf](https://github.com/user-attachments/files/18296723/New.products.2021.pdf)
 
 5. **Top 5 Sales Countries in 2021**
    - Insights: 
      - India led with $161.3 million in sales.
      - Strong sales also noted in the USA, South Korea, the UK, and Canada.
+   [Top 5 country.pdf](https://github.com/user-attachments/files/18296724/Top.5.country.pdf)
+
 
 ## Financial Analysis
 
@@ -56,21 +66,33 @@ https://github.com/SangeetaYadav-DataAnalyst/Atliq-Hardware-Business-Intelligenc
 
 1. **Customer Net Sales Performance Report**
    - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+     [customers performance report.pdf](https://github.com/user-attachments/files/18296729/customers.performance.report.pdf)
+
 
 2. **Market Performance vs. Sales Targets Comparison**
    - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+     [Market performance report.pdf](https://github.com/user-attachments/files/18296731/Market.performance.report.pdf)
+
 
 3. **Yearly Profit and Loss (P&L) Report**
    - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+     [P&L by Fiscal years.pdf](https://github.com/user-attachments/files/18296732/P.L.by.Fiscal.years.pdf)
+
 
 4. **Quarterly Profit and Loss (P&L) Comparison**
    - Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+     [P&l by fiscal months.pdf](https://github.com/user-attachments/files/18296735/P.l.by.fiscal.months.pdf)
+
 
 5. **Market-Specific Profit and Loss (P&L) Report**
    - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+     [P&L for markets.pdf](https://github.com/user-attachments/files/18296738/P.L.for.markets.pdf)
+
 
 6. **Quarterly Gross Margin Percentage (GM%) by Location**
    - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+     [GM % by Quarters.pdf](https://github.com/user-attachments/files/18296740/GM.by.Quarters.pdf)
+
 
 ## Overall Insights
 - **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
