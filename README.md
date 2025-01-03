@@ -21,6 +21,8 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 1. **Top 10 Products with Sales Increase**
    - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+https://github.com/SangeetaYadav-DataAnalyst/Atliq-Hardware-Business-Intelligence-Reports_Using_Advance_Excel/blob/main/Top%2010%20Products.pdf
+     
 
 2. **Division Sales Report**
    - Insights: 
