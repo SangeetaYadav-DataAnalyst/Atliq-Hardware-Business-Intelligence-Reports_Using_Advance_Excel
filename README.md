@@ -10,7 +10,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 ## Sales Analysis
 
-### Objectives
+## Objectives
 1. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
 2. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
 3. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
